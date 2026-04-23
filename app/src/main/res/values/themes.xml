@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExamPrep" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#54E18D</item>
+        <item name="android:windowBackground">#619BDE</item>
+
+
+    </style>
+
+    <style name="Theme.ExamPrep" parent="Base.Theme.ExamPrep" />
+</resources>
